@@ -1,0 +1,7 @@
+<map id="UsbConfiguration" name="UsbConfiguration">
+<area shape="rect" id="node1" title="USB driver configuration." alt="" coords="170,184,305,211"/>
+<area shape="rect" id="node2" href="$structEndpointDescriptor.html" title="USB endpoint descriptor." alt="" coords="5,95,152,121"/>
+<area shape="rect" id="node3" href="$structInterfaceDescriptor.html" title="USB Interface descriptor." alt="" coords="164,5,311,32"/>
+<area shape="rect" id="node4" href="$structUsbInterfaces.html" title="USB driver interfaces structure." alt="" coords="253,95,365,121"/>
+<area shape="rect" id="node5" href="$structConfigDescriptor.html" title="USB configuration descriptor." alt="" coords="389,95,520,121"/>
+</map>

@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['_5f_5falloc_5fheap_5fbase_5798',['__alloc_heap_base',['../alloc_8c.html#aea9bd521177588ac95e332dc206892c1',1,'alloc.c']]],
+  ['_5f_5falloc_5fheap_5fhead_5799',['__alloc_heap_head',['../alloc_8c.html#a673b70e93ac29f7385874094586c0c55',1,'alloc.c']]],
+  ['_5f_5falloc_5fheap_5ftail_5800',['__alloc_heap_tail',['../alloc_8c.html#a49a90c3b1a2abe3a90ec2ffa11763e33',1,'alloc.c']]],
+  ['_5f_5fattribute_5f_5f_5801',['__attribute__',['../psphttp_8h.html#a56ff382e0f27f09c99b938c096571713',1,'__attribute__():&#160;cxx.cpp'],['../pspthreadman__kernel_8h.html#a467f8c7d55bddb9ee4f5de21e7678ab9',1,'__attribute__():&#160;pspthreadman_kernel.h'],['../threadutils_8c.html#ab3bc48cc0defc32bd63800818f346199',1,'__attribute__():&#160;threadutils.c'],['../pspusbbus_8h.html#a56ff382e0f27f09c99b938c096571713',1,'__attribute__():&#160;pspusbbus.h']]],
+  ['_5f_5fiob_5802',['__iob',['../libc_2stdio_8c.html#ae33ec290f0df2483544c29d44f6f9dc7',1,'__iob():&#160;stdio.c'],['../stdio_8h.html#ae33ec290f0df2483544c29d44f6f9dc7',1,'__iob():&#160;stdio.h']]],
+  ['_5f_5fpacked_5f_5f_5803',['__packed__',['../pspsircs_8h.html#aeb4728f265ea53f9e7581ef33ef8884b',1,'pspsircs.h']]],
+  ['_5f_5fpsp_5fargv_5f0_5804',['__psp_argv_0',['../libcglue_8c.html#ad6c872e4312a03b586d057eee22edde9',1,'libcglue.c']]],
+  ['_5f_5fpsp_5fcwd_5805',['__psp_cwd',['../libcglue_8c.html#acb46a4b520671381af48a8b342e59203',1,'libcglue.c']]],
+  ['_5f_5fpsp_5fcwd_5finitialized_5806',['__psp_cwd_initialized',['../libcglue_8c.html#aa1ec84f3ea9a9fa2189f25d0ea215ef6',1,'libcglue.c']]],
+  ['_5f_5fpspsdk_5fis_5fprx_5807',['__pspsdk_is_prx',['../crt0__prx_8c.html#a760c5f91c0fadd6996e320cb30448668',1,'crt0_prx.c']]],
+  ['_5f_5fstdlib_5fenv_5808',['__stdlib_env',['../stdlib_8c.html#adbb5a4650b95ff42990d6d930a1bf037',1,'stdlib.c']]],
+  ['_5f_5fstdlib_5fexit_5ffunc_5809',['__stdlib_exit_func',['../stdlib_8c.html#a1bca1eafbe68beb3019fa5c27c6c37cf',1,'stdlib.c']]],
+  ['_5f_5fstdlib_5fexit_5findex_5810',['__stdlib_exit_index',['../stdlib_8c.html#a1753e75eb614d558ac56773c1467217a',1,'stdlib.c']]],
+  ['_5f_5fstdlib_5fmb_5fshift_5811',['__stdlib_mb_shift',['../stdlib_8c.html#a4bacb0be815f27f928572e82cad559bb',1,'stdlib.c']]],
+  ['_5f_5fstdlib_5frand_5fseed_5812',['__stdlib_rand_seed',['../stdlib_8c.html#a47f15079cbcf8550a10f8c3efe90f86c',1,'stdlib.c']]],
+  ['_5fetext_5813',['_etext',['../stacktrace_8c.html#a5ab6b5017accd262a998cbb2ed9a32ef',1,'_etext():&#160;stacktrace.c'],['../prof_8c.html#ac0dc0da71a585612fa9799a073967617',1,'_etext():&#160;prof.c']]],
+  ['_5fftext_5814',['_ftext',['../stacktrace_8c.html#afaee42f2395da0f681d5c358d4ffac33',1,'_ftext():&#160;stacktrace.c'],['../prof_8c.html#a3553f1a4bd75b9c5096c14035d604c66',1,'_ftext():&#160;prof.c']]],
+  ['_5fgp_5815',['_gp',['../pspmoduleinfo_8h.html#a1f629201dc9ea82fadc9180deb2a6f01',1,'pspmoduleinfo.h']]],
+  ['_5fpspdebugexceptregs_5816',['_pspDebugExceptRegs',['../exception_8c.html#af2bd0537bf07d649e868193e4d4a6718',1,'exception.c']]],
+  ['_5fpspdebugresumepatch_5817',['_pspDebugResumePatch',['../gdb-stub_8c.html#a3c5991666b12f788b3363c98cf3b6079',1,'gdb-stub.c']]]
+];
